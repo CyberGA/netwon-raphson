@@ -20,7 +20,7 @@ The code base consists of two main files:
 ## Installation
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/CyberGA/newton-raphson.git
+    git clone git@github.com:CyberGA/newton-raphson.git
     cd newton-raphson
     ```
 2.  Install the dependencies:
